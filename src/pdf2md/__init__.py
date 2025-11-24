@@ -6,7 +6,7 @@ relationships and document structure through intelligent bbox analysis and
 typography heuristics.
 """
 
-# from .api import convert_pdf, PDFConverter  # TODO: implement
+from .api import convert_pdf, PDFConverter, analyze_pdf_structure
 from .core.document import Document, Page, Block, Word
 from .core.bbox import BBox
 
@@ -15,8 +15,9 @@ __author__ = "François Rosselet"
 __email__ = "francois@example.com"
 
 __all__ = [
-    # "convert_pdf",  # TODO: implement
-    # "PDFConverter",  # TODO: implement
+    "convert_pdf",
+    "PDFConverter",
+    "analyze_pdf_structure",
     "Document",
     "Page",
     "Block",
