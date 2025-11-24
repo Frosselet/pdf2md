@@ -19,7 +19,7 @@ pip install pdf2md
 
 For development:
 ```bash
-git clone https://github.com/francoisrosselet/pdf2md
+git clone https://github.com/Frosselet/pdf2md
 cd pdf2md
 pip install -e ".[dev]"
 ```

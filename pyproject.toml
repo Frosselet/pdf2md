@@ -48,9 +48,9 @@ test = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/francoisrosselet/pdf2md"
-Repository = "https://github.com/francoisrosselet/pdf2md"
-Issues = "https://github.com/francoisrosselet/pdf2md/issues"
+Homepage = "https://github.com/Frosselet/pdf2md"
+Repository = "https://github.com/Frosselet/pdf2md"
+Issues = "https://github.com/Frosselet/pdf2md/issues"
 
 [project.scripts]
 pdf2md = "pdf2md.cli:main"
