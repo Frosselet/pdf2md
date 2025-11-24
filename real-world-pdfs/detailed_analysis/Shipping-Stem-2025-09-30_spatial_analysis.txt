@@ -1,0 +1,267 @@
+================================================================================
+DETAILED SPATIAL ANALYSIS: Shipping-Stem-2025-09-30.pdf
+================================================================================
+
+PAGE 1
+--------------------------------------------------------------------------------
+Dimensions: 841.92 x 595.32 points
+
+Text Blocks: 22
+
+COLUMN DETECTION: Found 14 distinct X-positions
+  X-positions: [20, 50, 60, 90, 100, 160, 370, 380, 390, 470, 520, 560, 610, 700]
+  This indicates multi-column layout!
+
+First 5 text blocks (with coordinates):
+  Block 1: [372.4, 14.1, 468.7, 22.6]
+    Text: "GRAINCORP SHIPPING STEM..."
+  Block 2: [374.9, 22.8, 467.0, 28.0]
+    Text: "GrainCorp Operations Ltd ABN 52003875401..."
+  Block 3: [22.7, 80.0, 108.8, 85.8]
+    Text: "GC Fin YearMonthPort..."
+  Block 4: [163.3, 73.6, 359.5, 85.8]
+    Text: "Unique Slot Reference NumberExporterName Of ShipDate ETA of ..."
+  Block 5: [376.7, 67.1, 467.0, 85.8]
+    Text: "Date of Grain Loading CommencementDate ETD of Ship..."
+
+Drawings/Shapes: 22 items
+  Horizontal lines: 0
+  Vertical lines: 0
+  Rectangles: 44
+
+RAW TEXT EXTRACTION (Traditional Parser Output):
+--------------------------------------------------------------------------------
+  1: GRAINCORP SHIPPING STEM
+  2: GrainCorp Operations Ltd ABN 52003875401
+  3: GC Fin Year
+  4: Month
+  5: Port
+  6: Unique Slot 
+  7: Reference Number
+  8: Exporter
+  9: Name Of Ship
+ 10: Date ETA of Ship
+ 11: Date of Grain 
+ 12: Loading 
+ 13: Commencement
+ 14: Date ETD of Ship
+ 15: Date Nomination 
+ 16: Received
+ 17: Time Nomination 
+ 18: Received
+ 19: Date Nomination 
+ 20: Accepted
+... (93 more lines)
+
+SPATIAL TEXT EXTRACTION (with coordinates):
+--------------------------------------------------------------------------------
+Block at (372, 14): GRAINCORP SHIPPING STEM
+Block at (375, 23): GrainCorp Operations Ltd ABN 52003875401
+Block at (400, 51): SHIPPING STEM
+Block at (388, 60): Tuesday, 30 September 2025
+Block at (377, 67): Date of Grain Loading CommencementDate ETD of Ship
+Block at (163, 74): Unique Slot Reference NumberExporterName Of ShipDate ETA of Ship
+Block at (474, 74): Date Nomination Received
+Block at (521, 74): Time Nomination Received
+Block at (568, 74): Date Nomination Accepted
+Block at (615, 74): Time Nomination AcceptedStatus
+... (12 more blocks)
+
+
+PAGE 2
+--------------------------------------------------------------------------------
+Dimensions: 841.92 x 595.32 points
+
+Text Blocks: 90
+
+COLUMN DETECTION: Found 12 distinct X-positions
+  X-positions: [20, 50, 60, 90, 100, 160, 370, 470, 520, 560, 610, 700]
+  This indicates multi-column layout!
+
+First 5 text blocks (with coordinates):
+  Block 1: [372.4, 14.1, 468.7, 22.6]
+    Text: "GRAINCORP SHIPPING STEM..."
+  Block 2: [374.9, 22.8, 467.0, 28.0]
+    Text: "GrainCorp Operations Ltd ABN 52003875401..."
+  Block 3: [22.7, 63.4, 108.8, 69.1]
+    Text: "GC Fin YearMonthPort..."
+  Block 4: [163.3, 56.9, 359.5, 69.1]
+    Text: "Unique Slot Reference NumberExporterName Of ShipDate ETA of ..."
+  Block 5: [376.7, 50.4, 467.0, 69.1]
+    Text: "Date of Grain Loading CommencementDate ETD of Ship..."
+
+Drawings/Shapes: 107 items
+  Horizontal lines: 0
+  Vertical lines: 0
+  Rectangles: 231
+
+RAW TEXT EXTRACTION (Traditional Parser Output):
+--------------------------------------------------------------------------------
+  1: GRAINCORP SHIPPING STEM
+  2: GrainCorp Operations Ltd ABN 52003875401
+  3: GC Fin Year
+  4: Month
+  5: Port
+  6: Unique Slot 
+  7: Reference Number
+  8: Exporter
+  9: Name Of Ship
+ 10: Date ETA of Ship
+ 11: Date of Grain 
+ 12: Loading 
+ 13: Commencement
+ 14: Date ETD of Ship
+ 15: Date Nomination 
+ 16: Received
+ 17: Time Nomination 
+ 18: Received
+ 19: Date Nomination 
+ 20: Accepted
+... (981 more lines)
+
+SPATIAL TEXT EXTRACTION (with coordinates):
+--------------------------------------------------------------------------------
+Block at (372, 14): GRAINCORP SHIPPING STEM
+Block at (375, 23): GrainCorp Operations Ltd ABN 52003875401
+Block at (377, 50): Date of Grain Loading CommencementDate ETD of Ship
+Block at (163, 57): Unique Slot Reference NumberExporterName Of ShipDate ETA of Ship
+Block at (474, 57): Date Nomination Received
+Block at (521, 57): Time Nomination Received
+Block at (568, 57): Date Nomination Accepted
+Block at (615, 57): Time Nomination AcceptedStatus
+Block at (709, 57): Date Loading CompletedCommodityTotal
+Block at (23, 63): GC Fin YearMonthPort
+... (80 more blocks)
+
+
+PAGE 3
+--------------------------------------------------------------------------------
+Dimensions: 841.92 x 595.32 points
+
+Text Blocks: 90
+
+COLUMN DETECTION: Found 12 distinct X-positions
+  X-positions: [20, 50, 60, 90, 100, 160, 370, 470, 520, 560, 610, 700]
+  This indicates multi-column layout!
+
+First 5 text blocks (with coordinates):
+  Block 1: [372.4, 14.1, 468.7, 22.6]
+    Text: "GRAINCORP SHIPPING STEM..."
+  Block 2: [374.9, 22.8, 467.0, 28.0]
+    Text: "GrainCorp Operations Ltd ABN 52003875401..."
+  Block 3: [22.7, 63.4, 108.8, 69.1]
+    Text: "GC Fin YearMonthPort..."
+  Block 4: [163.3, 56.9, 359.5, 69.1]
+    Text: "Unique Slot Reference NumberExporterName Of ShipDate ETA of ..."
+  Block 5: [376.7, 50.4, 467.0, 69.1]
+    Text: "Date of Grain Loading CommencementDate ETD of Ship..."
+
+Drawings/Shapes: 99 items
+  Horizontal lines: 0
+  Vertical lines: 0
+  Rectangles: 213
+
+RAW TEXT EXTRACTION (Traditional Parser Output):
+--------------------------------------------------------------------------------
+  1: GRAINCORP SHIPPING STEM
+  2: GrainCorp Operations Ltd ABN 52003875401
+  3: GC Fin Year
+  4: Month
+  5: Port
+  6: Unique Slot 
+  7: Reference Number
+  8: Exporter
+  9: Name Of Ship
+ 10: Date ETA of Ship
+ 11: Date of Grain 
+ 12: Loading 
+ 13: Commencement
+ 14: Date ETD of Ship
+ 15: Date Nomination 
+ 16: Received
+ 17: Time Nomination 
+ 18: Received
+ 19: Date Nomination 
+ 20: Accepted
+... (983 more lines)
+
+SPATIAL TEXT EXTRACTION (with coordinates):
+--------------------------------------------------------------------------------
+Block at (372, 14): GRAINCORP SHIPPING STEM
+Block at (375, 23): GrainCorp Operations Ltd ABN 52003875401
+Block at (377, 50): Date of Grain Loading CommencementDate ETD of Ship
+Block at (163, 57): Unique Slot Reference NumberExporterName Of ShipDate ETA of Ship
+Block at (474, 57): Date Nomination Received
+Block at (521, 57): Time Nomination Received
+Block at (568, 57): Date Nomination Accepted
+Block at (615, 57): Time Nomination AcceptedStatus
+Block at (709, 57): Date Loading CompletedCommodityTotal
+Block at (23, 63): GC Fin YearMonthPort
+... (80 more blocks)
+
+
+PAGE 4
+--------------------------------------------------------------------------------
+Dimensions: 841.92 x 595.32 points
+
+Text Blocks: 33
+
+COLUMN DETECTION: Found 12 distinct X-positions
+  X-positions: [20, 50, 60, 90, 100, 160, 370, 470, 520, 560, 610, 700]
+  This indicates multi-column layout!
+
+First 5 text blocks (with coordinates):
+  Block 1: [372.4, 14.1, 468.7, 22.6]
+    Text: "GRAINCORP SHIPPING STEM..."
+  Block 2: [374.9, 22.8, 467.0, 28.0]
+    Text: "GrainCorp Operations Ltd ABN 52003875401..."
+  Block 3: [22.7, 63.4, 108.8, 69.1]
+    Text: "GC Fin YearMonthPort..."
+  Block 4: [163.3, 56.9, 359.5, 69.1]
+    Text: "Unique Slot Reference NumberExporterName Of ShipDate ETA of ..."
+  Block 5: [376.7, 50.4, 467.0, 69.1]
+    Text: "Date of Grain Loading CommencementDate ETD of Ship..."
+
+Drawings/Shapes: 33 items
+  Horizontal lines: 0
+  Vertical lines: 0
+  Rectangles: 65
+
+RAW TEXT EXTRACTION (Traditional Parser Output):
+--------------------------------------------------------------------------------
+  1: GRAINCORP SHIPPING STEM
+  2: GrainCorp Operations Ltd ABN 52003875401
+  3: GC Fin Year
+  4: Month
+  5: Port
+  6: Unique Slot 
+  7: Reference Number
+  8: Exporter
+  9: Name Of Ship
+ 10: Date ETA of Ship
+ 11: Date of Grain 
+ 12: Loading 
+ 13: Commencement
+ 14: Date ETD of Ship
+ 15: Date Nomination 
+ 16: Received
+ 17: Time Nomination 
+ 18: Received
+ 19: Date Nomination 
+ 20: Accepted
+... (248 more lines)
+
+SPATIAL TEXT EXTRACTION (with coordinates):
+--------------------------------------------------------------------------------
+Block at (372, 14): GRAINCORP SHIPPING STEM
+Block at (375, 23): GrainCorp Operations Ltd ABN 52003875401
+Block at (377, 50): Date of Grain Loading CommencementDate ETD of Ship
+Block at (163, 57): Unique Slot Reference NumberExporterName Of ShipDate ETA of Ship
+Block at (474, 57): Date Nomination Received
+Block at (521, 57): Time Nomination Received
+Block at (568, 57): Date Nomination Accepted
+Block at (615, 57): Time Nomination AcceptedStatus
+Block at (709, 57): Date Loading CompletedCommodityTotal
+Block at (23, 63): GC Fin YearMonthPort
+... (23 more blocks)
+

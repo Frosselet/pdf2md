@@ -1,0 +1,561 @@
+{
+  "analysis_date": "2025-11-24T06:18:08.410079",
+  "total_pdfs": 8,
+  "results": [
+    {
+      "filename": "CBH Shipping Stem 26092025.pdf",
+      "path": "/Volumes/WD Green/dev/git/pdf2md/pdf2md/real-world-pdfs/complex/CBH Shipping Stem 26092025.pdf",
+      "metadata": {
+        "pages": 1,
+        "file_size_kb": 199.6748046875,
+        "creation_date": "D:20250926171850+08'00'",
+        "mod_date": "D:20250926171850+08'00'",
+        "producer": "Microsoft\u00ae Excel\u00ae for Microsoft 365",
+        "creator": "Microsoft\u00ae Excel\u00ae for Microsoft 365",
+        "title": "",
+        "format": "PDF 1.7",
+        "encryption": null
+      },
+      "structure": {
+        "total_blocks": 99,
+        "avg_blocks_per_page": 99.0,
+        "has_multi_column": true,
+        "has_tables": false,
+        "has_images": true,
+        "has_drawings": true
+      },
+      "text_quality": {
+        "total_text_length": 6545,
+        "avg_text_per_page": 6545.0,
+        "encoding_issues": [],
+        "extraction_issues": []
+      },
+      "layout_complexity": {},
+      "fonts": {
+        "unique_fonts": 7,
+        "font_list": [
+          "Arial-BoldMT_4.679999828338623",
+          "Arial-BoldMT_6.239999771118164",
+          "ArialMT_3.9600000381469727",
+          "Calibri-Bold_3.9600000381469727",
+          "Calibri-Bold_4.320000171661377",
+          "Calibri_3.9600000381469727",
+          "Calibri_4.320000171661377"
+        ]
+      },
+      "graphics": {
+        "has_images": true,
+        "has_drawings": true,
+        "page_details": [
+          {
+            "page_num": 1,
+            "width": 841.6799926757812,
+            "height": 595.2000122070312,
+            "rotation": 0,
+            "text_length": 6545,
+            "blocks": 99,
+            "fonts": 7,
+            "images": 1,
+            "drawings": 176,
+            "drawing_types": {
+              "re": 176
+            }
+          }
+        ]
+      },
+      "issues": [
+        "MS_OFFICE_GENERATED",
+        "MULTI_COLUMN_LAYOUT",
+        "COMPLEX_GRAPHICS"
+      ]
+    },
+    {
+      "filename": "Shipping-Stem-2025-09-30.pdf",
+      "path": "/Volumes/WD Green/dev/git/pdf2md/pdf2md/real-world-pdfs/complex/Shipping-Stem-2025-09-30.pdf",
+      "metadata": {
+        "pages": 4,
+        "file_size_kb": 461.53125,
+        "creation_date": "D:20250930112628+10'00'",
+        "mod_date": "D:20250930112628+10'00'",
+        "producer": "Microsoft: Print To PDF",
+        "creator": "",
+        "title": "Shipping Stem 2025 09 30.xlsx",
+        "format": "PDF 1.7",
+        "encryption": null
+      },
+      "structure": {
+        "total_blocks": 239,
+        "avg_blocks_per_page": 59.75,
+        "has_multi_column": true,
+        "has_tables": false,
+        "has_images": true,
+        "has_drawings": true
+      },
+      "text_quality": {
+        "total_text_length": 20421,
+        "avg_text_per_page": 5105.25,
+        "encoding_issues": [],
+        "extraction_issues": []
+      },
+      "layout_complexity": {},
+      "fonts": {
+        "unique_fonts": 5,
+        "font_list": [
+          "CIDFont+F1_4.3198347091674805",
+          "CIDFont+F1_6.95973014831543",
+          "CIDFont+F2_5.159797668457031",
+          "CIDFont+F2_5.999767303466797",
+          "CIDFont+F3_5.159797668457031"
+        ]
+      },
+      "graphics": {
+        "has_images": true,
+        "has_drawings": true,
+        "page_details": [
+          {
+            "page_num": 1,
+            "width": 841.9200439453125,
+            "height": 595.3200073242188,
+            "rotation": 0,
+            "text_length": 1262,
+            "blocks": 23,
+            "fonts": 5,
+            "images": 1,
+            "drawings": 22,
+            "drawing_types": {
+              "re": 44
+            }
+          },
+          {
+            "page_num": 2,
+            "width": 841.9200439453125,
+            "height": 595.3200073242188,
+            "rotation": 0,
+            "text_length": 8489,
+            "blocks": 91,
+            "fonts": 4,
+            "images": 1,
+            "drawings": 107,
+            "drawing_types": {
+              "re": 231
+            }
+          },
+          {
+            "page_num": 3,
+            "width": 841.9200439453125,
+            "height": 595.3200073242188,
+            "rotation": 0,
+            "text_length": 8277,
+            "blocks": 91,
+            "fonts": 4,
+            "images": 1,
+            "drawings": 99,
+            "drawing_types": {
+              "re": 213
+            }
+          },
+          {
+            "page_num": 4,
+            "width": 841.9200439453125,
+            "height": 595.3200073242188,
+            "rotation": 0,
+            "text_length": 2393,
+            "blocks": 34,
+            "fonts": 4,
+            "images": 1,
+            "drawings": 33,
+            "drawing_types": {
+              "re": 65
+            }
+          }
+        ]
+      },
+      "issues": [
+        "MS_OFFICE_GENERATED",
+        "MULTI_COLUMN_LAYOUT",
+        "COMPLEX_GRAPHICS"
+      ]
+    },
+    {
+      "filename": "document (1).pdf",
+      "path": "/Volumes/WD Green/dev/git/pdf2md/pdf2md/real-world-pdfs/complex/document (1).pdf",
+      "metadata": {
+        "pages": 7,
+        "file_size_kb": 61.0390625,
+        "creation_date": "D:20250930070126+00'00'",
+        "mod_date": "D:20250930070126+00'00'",
+        "producer": "iTextSharp\u2122 5.5.13.4 \u00a92000-2024 iText Group NV (AGPL-version)",
+        "creator": "",
+        "title": "",
+        "format": "PDF 1.4",
+        "encryption": null
+      },
+      "structure": {
+        "total_blocks": 197,
+        "avg_blocks_per_page": 28.142857142857142,
+        "has_multi_column": true,
+        "has_tables": false,
+        "has_images": true,
+        "has_drawings": false
+      },
+      "text_quality": {
+        "total_text_length": 7020,
+        "avg_text_per_page": 1002.8571428571429,
+        "encoding_issues": [],
+        "extraction_issues": []
+      },
+      "layout_complexity": {},
+      "fonts": {
+        "unique_fonts": 2,
+        "font_list": [
+          "Helvetica_12.0",
+          "Helvetica_8.0"
+        ]
+      },
+      "graphics": {
+        "has_images": true,
+        "has_drawings": false,
+        "page_details": [
+          {
+            "page_num": 1,
+            "width": 595.0,
+            "height": 842.0,
+            "rotation": 0,
+            "text_length": 1003,
+            "blocks": 32,
+            "fonts": 2,
+            "images": 2
+          },
+          {
+            "page_num": 2,
+            "width": 595.0,
+            "height": 842.0,
+            "rotation": 0,
+            "text_length": 1073,
+            "blocks": 32,
+            "fonts": 2,
+            "images": 2
+          },
+          {
+            "page_num": 3,
+            "width": 595.0,
+            "height": 842.0,
+            "rotation": 0,
+            "text_length": 1090,
+            "blocks": 32,
+            "fonts": 2,
+            "images": 2
+          },
+          {
+            "page_num": 4,
+            "width": 595.0,
+            "height": 842.0,
+            "rotation": 0,
+            "text_length": 1022,
+            "blocks": 32,
+            "fonts": 2,
+            "images": 2
+          },
+          {
+            "page_num": 5,
+            "width": 595.0,
+            "height": 842.0,
+            "rotation": 0,
+            "text_length": 961,
+            "blocks": 23,
+            "fonts": 2,
+            "images": 2
+          },
+          {
+            "page_num": 6,
+            "width": 595.0,
+            "height": 842.0,
+            "rotation": 0,
+            "text_length": 944,
+            "blocks": 23,
+            "fonts": 2,
+            "images": 2
+          },
+          {
+            "page_num": 7,
+            "width": 595.0,
+            "height": 842.0,
+            "rotation": 0,
+            "text_length": 927,
+            "blocks": 23,
+            "fonts": 2,
+            "images": 2
+          }
+        ]
+      },
+      "issues": [
+        "MULTI_COLUMN_LAYOUT"
+      ]
+    },
+    {
+      "filename": "shipping-stem-2025-11-13.pdf",
+      "path": "/Volumes/WD Green/dev/git/pdf2md/pdf2md/real-world-pdfs/complex/shipping-stem-2025-11-13.pdf",
+      "metadata": {
+        "pages": 3,
+        "file_size_kb": 504.1630859375,
+        "creation_date": "D:20251113105912+11'00'",
+        "mod_date": "D:20251113105912+11'00'",
+        "producer": "Microsoft: Print To PDF",
+        "creator": "",
+        "title": "Shipping Stem 2025 11 13.xlsx",
+        "format": "PDF 1.7",
+        "encryption": null
+      },
+      "structure": {
+        "total_blocks": 214,
+        "avg_blocks_per_page": 71.33333333333333,
+        "has_multi_column": true,
+        "has_tables": false,
+        "has_images": true,
+        "has_drawings": true
+      },
+      "text_quality": {
+        "total_text_length": 19004,
+        "avg_text_per_page": 6334.666666666667,
+        "encoding_issues": [],
+        "extraction_issues": []
+      },
+      "layout_complexity": {},
+      "fonts": {
+        "unique_fonts": 5,
+        "font_list": [
+          "CIDFont+F1_4.3198347091674805",
+          "CIDFont+F1_6.95973014831543",
+          "CIDFont+F2_5.159797668457031",
+          "CIDFont+F2_5.999767303466797",
+          "CIDFont+F3_5.159797668457031"
+        ]
+      },
+      "graphics": {
+        "has_images": true,
+        "has_drawings": true,
+        "page_details": [
+          {
+            "page_num": 1,
+            "width": 841.9200439453125,
+            "height": 595.3200073242188,
+            "rotation": 0,
+            "text_length": 8355,
+            "blocks": 90,
+            "fonts": 5,
+            "images": 1,
+            "drawings": 111,
+            "drawing_types": {
+              "re": 243
+            }
+          },
+          {
+            "page_num": 2,
+            "width": 841.9200439453125,
+            "height": 595.3200073242188,
+            "rotation": 0,
+            "text_length": 8365,
+            "blocks": 91,
+            "fonts": 4,
+            "images": 1,
+            "drawings": 99,
+            "drawing_types": {
+              "re": 213
+            }
+          },
+          {
+            "page_num": 3,
+            "width": 841.9200439453125,
+            "height": 595.3200073242188,
+            "rotation": 0,
+            "text_length": 2284,
+            "blocks": 33,
+            "fonts": 4,
+            "images": 1,
+            "drawings": 33,
+            "drawing_types": {
+              "re": 65
+            }
+          }
+        ]
+      },
+      "issues": [
+        "MS_OFFICE_GENERATED",
+        "MULTI_COLUMN_LAYOUT",
+        "COMPLEX_GRAPHICS"
+      ]
+    },
+    {
+      "filename": "2857439.pdf",
+      "path": "/Volumes/WD Green/dev/git/pdf2md/pdf2md/real-world-pdfs/problematic/2857439.pdf",
+      "metadata": {
+        "pages": 1,
+        "file_size_kb": 58.4873046875,
+        "creation_date": "D:20250915143208-10'00'",
+        "mod_date": "D:20250915143208-10'00'",
+        "producer": "",
+        "creator": "FileMaker Pro 21.1.1",
+        "title": "",
+        "format": "PDF 1.6",
+        "encryption": null
+      },
+      "structure": {},
+      "text_quality": {},
+      "layout_complexity": {},
+      "fonts": {},
+      "graphics": {},
+      "issues": [
+        "PROCESSING_ERROR"
+      ],
+      "error": "tuple index out of range"
+    },
+    {
+      "filename": "Bunge_loadingstatement_2025-09-25.pdf",
+      "path": "/Volumes/WD Green/dev/git/pdf2md/pdf2md/real-world-pdfs/problematic/Bunge_loadingstatement_2025-09-25.pdf",
+      "metadata": {
+        "pages": 1,
+        "file_size_kb": 67.708984375,
+        "creation_date": "D:20250925174842+10'00'",
+        "mod_date": "D:20250926091451+08'00'",
+        "producer": "Microsoft\u00ae Excel\u00ae for Microsoft 365",
+        "creator": "Microsoft\u00ae Excel\u00ae for Microsoft 365",
+        "title": "",
+        "format": "PDF 1.7",
+        "encryption": null
+      },
+      "structure": {
+        "total_blocks": 35,
+        "avg_blocks_per_page": 35.0,
+        "has_multi_column": true,
+        "has_tables": false,
+        "has_images": false,
+        "has_drawings": true
+      },
+      "text_quality": {
+        "total_text_length": 2033,
+        "avg_text_per_page": 2033.0,
+        "encoding_issues": [],
+        "extraction_issues": []
+      },
+      "layout_complexity": {},
+      "fonts": {
+        "unique_fonts": 2,
+        "font_list": [
+          "Calibri_3.4800000190734863",
+          "Calibri_4.800000190734863"
+        ]
+      },
+      "graphics": {
+        "has_images": false,
+        "has_drawings": true,
+        "page_details": [
+          {
+            "page_num": 1,
+            "width": 792.0,
+            "height": 612.0,
+            "rotation": 0,
+            "text_length": 2033,
+            "blocks": 35,
+            "fonts": 2,
+            "drawings": 1,
+            "drawing_types": {
+              "re": 1
+            }
+          }
+        ]
+      },
+      "issues": [
+        "MS_OFFICE_GENERATED",
+        "MULTI_COLUMN_LAYOUT",
+        "COMPLEX_GRAPHICS"
+      ]
+    },
+    {
+      "filename": "Loading-Statement-for-Web-Portal-20250923.pdf",
+      "path": "/Volumes/WD Green/dev/git/pdf2md/pdf2md/real-world-pdfs/problematic/Loading-Statement-for-Web-Portal-20250923.pdf",
+      "metadata": {
+        "pages": 1,
+        "file_size_kb": 111.9873046875,
+        "creation_date": "D:20250923090333+09'30'",
+        "mod_date": "D:20250923090333+09'30'",
+        "producer": "Microsoft\u00ae Excel\u00ae for Microsoft 365",
+        "creator": "Microsoft\u00ae Excel\u00ae for Microsoft 365",
+        "title": "",
+        "format": "PDF 1.7",
+        "encryption": null
+      },
+      "structure": {},
+      "text_quality": {},
+      "layout_complexity": {},
+      "fonts": {},
+      "graphics": {},
+      "issues": [
+        "MS_OFFICE_GENERATED",
+        "PROCESSING_ERROR"
+      ],
+      "error": "tuple index out of range"
+    },
+    {
+      "filename": "shipping_stem-accc-30092025-1.pdf",
+      "path": "/Volumes/WD Green/dev/git/pdf2md/pdf2md/real-world-pdfs/problematic/shipping_stem-accc-30092025-1.pdf",
+      "metadata": {
+        "pages": 1,
+        "file_size_kb": 132.77734375,
+        "creation_date": "D:20250930105505+10'00'",
+        "mod_date": "D:20250930105505+10'00'",
+        "producer": "Microsoft\u00ae Excel\u00ae for Microsoft 365",
+        "creator": "Microsoft\u00ae Excel\u00ae for Microsoft 365",
+        "title": "",
+        "format": "PDF 1.7",
+        "encryption": null
+      },
+      "structure": {
+        "total_blocks": 24,
+        "avg_blocks_per_page": 24.0,
+        "has_multi_column": true,
+        "has_tables": false,
+        "has_images": true,
+        "has_drawings": true
+      },
+      "text_quality": {
+        "total_text_length": 1786,
+        "avg_text_per_page": 1786.0,
+        "encoding_issues": [],
+        "extraction_issues": []
+      },
+      "layout_complexity": {},
+      "fonts": {
+        "unique_fonts": 2,
+        "font_list": [
+          "Calibri-Bold_5.159999847412109",
+          "Calibri_5.159999847412109"
+        ]
+      },
+      "graphics": {
+        "has_images": true,
+        "has_drawings": true,
+        "page_details": [
+          {
+            "page_num": 1,
+            "width": 841.6799926757812,
+            "height": 595.2000122070312,
+            "rotation": 0,
+            "text_length": 1786,
+            "blocks": 24,
+            "fonts": 2,
+            "images": 1,
+            "drawings": 218,
+            "drawing_types": {
+              "re": 218
+            }
+          }
+        ]
+      },
+      "issues": [
+        "MS_OFFICE_GENERATED",
+        "MULTI_COLUMN_LAYOUT",
+        "COMPLEX_GRAPHICS"
+      ]
+    }
+  ]
+}

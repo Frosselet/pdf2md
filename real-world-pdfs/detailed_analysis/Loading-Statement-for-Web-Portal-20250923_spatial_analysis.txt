@@ -1,0 +1,28 @@
+================================================================================
+DETAILED SPATIAL ANALYSIS: Loading-Statement-for-Web-Portal-20250923.pdf
+================================================================================
+
+PAGE 1
+--------------------------------------------------------------------------------
+Dimensions: 792.00 x 612.00 points
+
+Text Blocks: 27
+
+COLUMN DETECTION: Found 20 distinct X-positions
+  X-positions: [20, 100, 140, 150, 190, 230, 240, 290, 300, 320, 340, 360, 370, 410, 460, 470, 640, 680, 690, 730]
+  This indicates multi-column layout!
+
+First 5 text blocks (with coordinates):
+  Block 1: [349.1, 78.5, 425.1, 90.4]
+    Text: "SHIPPING STEM..."
+  Block 2: [367.5, 93.1, 406.2, 101.3]
+    Text: "23/09/2025..."
+  Block 3: [329.7, 114.9, 444.4, 125.2]
+    Text: "LUCKY BAY and WALLAROO..."
+  Block 4: [21.7, 153.4, 140.6, 165.7]
+    Text: "ReferenceVesselNomination..."
+  Block 5: [106.8, 163.2, 134.6, 170.6]
+    Text: "Received..."
+
+Drawings/Shapes: 43 items
+ERROR: tuple index out of range

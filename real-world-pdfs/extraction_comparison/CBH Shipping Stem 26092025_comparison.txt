@@ -1,0 +1,166 @@
+================================================================================
+EXTRACTION COMPARISON: CBH Shipping Stem 26092025.pdf
+================================================================================
+
+PDF CHARACTERISTICS:
+  Producer: Microsoft® Excel® for Microsoft 365
+  Pages: 1
+  Text Blocks: 97
+  Drawings: 176
+  Column Positions: 9
+
+================================================================================
+
+METHOD 1: TRADITIONAL TEXT EXTRACTION (Stream Order)
+--------------------------------------------------------------------------------
+This is what libraries like PyPDF2, pdfplumber (default),
+and pypdf produce - text in stream order with no spatial awareness.
+
+RESULT:
+--------------------------------------------------------------------------------
+  1:  
+  2: As of 26/09/2025
+  3: 9292
+  4: DARYA KRISHNA
+  5: 10:21
+  6: 29/08/2025
+  7: 11:37
+  8: 29/08/2025
+  9: GrainCorp
+ 10: 06:00
+ 11: 24/09/2025
+ 12: 16:00
+ 13: 24/09/2025
+ 14: 05:00
+ 15: 26/09/2025
+ 16:  30,000
+ 17: 10.00
+ 18: Wheat
+ 19: Completed
+ 20: 26/09/2025
+ 21: 01:45
+ 22: 9276
+ 23: NIKOLAOS
+ 24: 14:22
+ 25: 22/08/2025
+ 26: 08:36
+ 27: 25/08/2025
+ 28: CBH Grain
+ 29: 17:48
+ 30: 25/09/2025
+ 31: 21:00
+ 32: 26/09/2025
+ 33: 06:00
+ 34: 29/09/2025
+ 35:  50,000
+ 36: 10.00
+ 37: Wheat
+ 38: 9275
+ 39: MEGHNA VISION
+ 40: 14:14
+ 41: 22/08/2025
+ 42: 08:38
+ 43: 25/08/2025
+ 44: CBH Grain
+ 45: 13:00
+ 46: 27/09/2025
+ 47: 11:00
+ 48: 29/09/2025
+ 49: 23:59
+ 50: 30/09/2025
+... (653 more lines)
+
+PROBLEMS WITH THIS APPROACH:
+  - Column relationships are destroyed
+  - Reading order is wrong (jumps between columns)
+  - Table structure is completely lost
+  - Headers are mixed with data
+  - Output is essentially unusable
+
+================================================================================
+
+METHOD 2: SPATIAL-AWARE EXTRACTION (Position-Based)
+--------------------------------------------------------------------------------
+This approach analyzes X/Y coordinates to understand layout,
+detect columns, maintain reading order, and preserve structure.
+
+RESULT:
+--------------------------------------------------------------------------------
+
+=== PAGE 1 ===
+Detected 9 columns
+
+--- Column 1 (X ≈ 0) ---
+  VNA #Vessel NameTime NominatedDate
+  9292DARYA KRISHNA10:2129/08/202511:3729/08/2025GrainCorp06:0024/09/202516:0024/09/202505:0026/09/202
+  9276NIKOLAOS14:2222/08/202508:3625/08/2025CBH Grain17:4825/09/202521:0026/09/202506:0029/09/2025 50,
+  9275MEGHNA VISION14:1422/08/202508:3825/08/2025CBH Grain13:0027/09/202511:0029/09/202523:5930/09/202
+  9265INCE SOUTHWIND10:0414/08/202512:2314/08/2025GrainCorp22:0029/09/202510:0003/10/202510:0005/10/20
+  ... (41 more blocks)
+
+--- Column 2 (X ≈ 150) ---
+  Time Nom
+  Nominated
+  Accepted
+  Time Nom
+  Nominated
+  ... (7 more blocks)
+
+--- Column 3 (X ≈ 200) ---
+  Date Nom
+  AcceptedClientETA TimeETAETC TimeETCETD TimeETDVolume
+  Date Nom
+  AcceptedClientETA TimeETAETC TimeETCETD TimeETDVolume
+  ... (4 more blocks)
+
+--- Column 4 (X ≈ 300) ---
+  PORT MAINTENANCE SHUTDOWN AM 01ST OCT UNTIL PM 15TH OCT (NO VESSELS ALONGSIDE)
+
+--- Column 5 (X ≈ 350) ---
+  Daily Ship Roster
+  As of 26/09/2025
+
+--- Column 6 (X ≈ 400) ---
+  GERALDTON
+  KWINANA
+  ALBANY
+  ESPERANCE
+
+--- Column 7 (X ≈ 550) ---
+  337,000
+  593,810
+  Volume+/- %Other Port/sCommodityLoading Status
+  168,000
+  Volume+/- %Other Port/sCommodityLoading Status
+  ... (2 more blocks)
+
+--- Column 8 (X ≈ 600) ---
+  +/- %Other Port/sCommodityLoading StatusDate Loading
+  +/- %Other Port/sCommodityLoading StatusDate Loading
+
+--- Column 9 (X ≈ 750) ---
+  Time Loading
+  Completed
+  Completed
+  Time Loading
+  Completed
+  ... (9 more blocks)
+
+
+
+IMPROVEMENTS WITH THIS APPROACH:
+  - Columns are correctly identified
+  - Text within each column maintains proper order
+  - Table structure can be inferred
+  - Headers are separated from data
+  - Output is structured and readable
+
+================================================================================
+
+CONCLUSION:
+
+This PDF has 9 distinct column positions and 
+176 drawing elements (likely table borders).
+
+Traditional extraction produces gibberish because it ignores spatial
+positioning. Spatial-aware extraction is essential for this document.

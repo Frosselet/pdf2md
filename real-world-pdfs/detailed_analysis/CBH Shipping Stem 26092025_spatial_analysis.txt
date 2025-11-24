@@ -1,0 +1,69 @@
+================================================================================
+DETAILED SPATIAL ANALYSIS: CBH Shipping Stem 26092025.pdf
+================================================================================
+
+PAGE 1
+--------------------------------------------------------------------------------
+Dimensions: 841.68 x 595.20 points
+
+Text Blocks: 97
+
+COLUMN DETECTION: Found 15 distinct X-positions
+  X-positions: [20, 30, 150, 180, 210, 220, 330, 360, 370, 400, 410, 570, 600, 750, 780]
+  This indicates multi-column layout!
+
+First 5 text blocks (with coordinates):
+  Block 1: [228.2, 14.9, 229.3, 20.4]
+    Text: "..."
+  Block 2: [371.6, 34.4, 409.3, 40.8]
+    Text: "As of 26/09/2025..."
+  Block 3: [34.8, 65.5, 804.1, 69.8]
+    Text: "9292DARYA KRISHNA10:2129/08/202511:3729/08/2025GrainCorp06:0..."
+  Block 4: [34.8, 70.8, 698.8, 75.1]
+    Text: "9276NIKOLAOS14:2222/08/202508:3625/08/2025CBH Grain17:4825/0..."
+  Block 5: [34.8, 76.1, 698.8, 80.4]
+    Text: "9275MEGHNA VISION14:1422/08/202508:3825/08/2025CBH Grain13:0..."
+
+Drawings/Shapes: 176 items
+  Horizontal lines: 0
+  Vertical lines: 0
+  Rectangles: 176
+
+RAW TEXT EXTRACTION (Traditional Parser Output):
+--------------------------------------------------------------------------------
+  1:  
+  2: As of 26/09/2025
+  3: 9292
+  4: DARYA KRISHNA
+  5: 10:21
+  6: 29/08/2025
+  7: 11:37
+  8: 29/08/2025
+  9: GrainCorp
+ 10: 06:00
+ 11: 24/09/2025
+ 12: 16:00
+ 13: 24/09/2025
+ 14: 05:00
+ 15: 26/09/2025
+ 16:  30,000
+ 17: 10.00
+ 18: Wheat
+ 19: Completed
+ 20: 26/09/2025
+... (683 more lines)
+
+SPATIAL TEXT EXTRACTION (with coordinates):
+--------------------------------------------------------------------------------
+Block at (228, 15): 
+Block at (362, 25): Daily Ship Roster
+Block at (372, 34): As of 26/09/2025
+Block at (410, 49): GERALDTON
+Block at (34, 54): VNA #Vessel NameTime NominatedDate
+Block at (189, 54): Time Nom
+Block at (220, 54): Date Nom
+Block at (609, 54): +/- %Other Port/sCommodityLoading StatusDate Loading
+Block at (787, 54): Time Loading
+Block at (220, 57): AcceptedClientETA TimeETAETC TimeETCETD TimeETDVolume
+... (87 more blocks)
+

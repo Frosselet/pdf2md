@@ -1,0 +1,28 @@
+================================================================================
+DETAILED SPATIAL ANALYSIS: 2857439.pdf
+================================================================================
+
+PAGE 1
+--------------------------------------------------------------------------------
+Dimensions: 842.00 x 595.00 points
+
+Text Blocks: 99
+
+COLUMN DETECTION: Found 19 distinct X-positions
+  X-positions: [20, 30, 70, 80, 90, 100, 240, 250, 260, 350, 360, 480, 490, 530, 540, 630, 640, 670, 680]
+  This indicates multi-column layout!
+
+First 5 text blocks (with coordinates):
+  Block 1: [103.2, 84.1, 217.2, 90.8]
+    Text: "Ref #Ship Name..."
+  Block 2: [494.8, 78.1, 514.2, 84.8]
+    Text: "Date of..."
+  Block 3: [489.3, 84.1, 519.7, 90.8]
+    Text: "Nomination..."
+  Block 4: [492.0, 90.1, 517.0, 96.8]
+    Text: "Received..."
+  Block 5: [33.0, 81.1, 776.5, 93.8]
+    Text: "PortETAExporterQuantity(tonnes)CommodityLoad Status..."
+
+Drawings/Shapes: 73 items
+ERROR: tuple index out of range

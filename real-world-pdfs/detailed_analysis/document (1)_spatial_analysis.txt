@@ -1,0 +1,430 @@
+================================================================================
+DETAILED SPATIAL ANALYSIS: document (1).pdf
+================================================================================
+
+PAGE 1
+--------------------------------------------------------------------------------
+Dimensions: 595.00 x 842.00 points
+
+Text Blocks: 31
+
+COLUMN DETECTION: Found 4 distinct X-positions
+  X-positions: [30, 80, 250, 390]
+  This indicates multi-column layout!
+
+First 5 text blocks (with coordinates):
+  Block 1: [36.0, 41.1, 39.3, 129.6]
+    Text: "..."
+  Block 2: [88.3, 147.4, 453.3, 158.4]
+    Text: "Unique Slot Reference NumberQB2061036115QB3126604877..."
+  Block 3: [88.3, 159.4, 443.0, 170.4]
+    Text: "Name of shipDARYA DIYAMH ADAGIO..."
+  Block 4: [88.3, 171.4, 194.6, 190.4]
+    Text: "Date at which nomination wasreceived..."
+  Block 5: [257.8, 171.4, 438.1, 182.4]
+    Text: "04-07-202503-06-2025..."
+
+RAW TEXT EXTRACTION (Traditional Parser Output):
+--------------------------------------------------------------------------------
+  1:  
+  2:  
+  3:  
+  4:  
+  5:  
+  6: Unique Slot Reference Number
+  7: QB2061036115
+  8: QB3126604877
+  9: Name of ship
+ 10: DARYA DIYA
+ 11: MH ADAGIO
+ 12: Date at which nomination was
+ 13: received
+ 14: 04-07-2025
+ 15: 03-06-2025
+ 16: Time at which nomination was
+ 17: received
+ 18: 03:17:00 PM
+ 19: 02:23:00 PM
+ 20: Date at which nomination was
+... (52 more lines)
+
+SPATIAL TEXT EXTRACTION (with coordinates):
+--------------------------------------------------------------------------------
+Block at (36, 41): 
+Block at (88, 147): Unique Slot Reference NumberQB2061036115QB3126604877
+Block at (88, 159): Name of shipDARYA DIYAMH ADAGIO
+Block at (88, 171): Date at which nomination wasreceived
+Block at (258, 171): 04-07-202503-06-2025
+Block at (88, 191): Time at which nomination wasreceived
+Block at (258, 191): 03:17:00 PM02:23:00 PM
+Block at (88, 211): Date at which nomination wasaccepted
+Block at (258, 211): 04-07-202503-06-2025
+Block at (88, 231): Time at which nomination wasaccepted
+... (21 more blocks)
+
+
+PAGE 2
+--------------------------------------------------------------------------------
+Dimensions: 595.00 x 842.00 points
+
+Text Blocks: 31
+
+COLUMN DETECTION: Found 3 distinct X-positions
+  X-positions: [30, 80, 250]
+  This indicates multi-column layout!
+
+First 5 text blocks (with coordinates):
+  Block 1: [36.0, 41.1, 39.3, 129.6]
+    Text: "..."
+  Block 2: [88.3, 147.4, 453.3, 158.4]
+    Text: "Unique Slot Reference NumberQB1148678055QB5305788574..."
+  Block 3: [88.3, 159.4, 439.5, 170.4]
+    Text: "Name of shipMONOCEROSCETUS SEI..."
+  Block 4: [88.3, 171.4, 194.6, 190.4]
+    Text: "Date at which nomination wasreceived..."
+  Block 5: [257.8, 171.4, 438.1, 182.4]
+    Text: "05-06-202516-06-2025..."
+
+RAW TEXT EXTRACTION (Traditional Parser Output):
+--------------------------------------------------------------------------------
+  1:  
+  2:  
+  3:  
+  4:  
+  5:  
+  6: Unique Slot Reference Number
+  7: QB1148678055
+  8: QB5305788574
+  9: Name of ship
+ 10: MONOCEROS
+ 11: CETUS SEI
+ 12: Date at which nomination was
+ 13: received
+ 14: 05-06-2025
+ 15: 16-06-2025
+ 16: Time at which nomination was
+ 17: received
+ 18: 04:49:00 PM
+ 19: 02:59:00 PM
+ 20: Date at which nomination was
+... (59 more lines)
+
+SPATIAL TEXT EXTRACTION (with coordinates):
+--------------------------------------------------------------------------------
+Block at (36, 41): 
+Block at (88, 147): Unique Slot Reference NumberQB1148678055QB5305788574
+Block at (88, 159): Name of shipMONOCEROSCETUS SEI
+Block at (88, 171): Date at which nomination wasreceived
+Block at (258, 171): 05-06-202516-06-2025
+Block at (88, 191): Time at which nomination wasreceived
+Block at (258, 191): 04:49:00 PM02:59:00 PM
+Block at (88, 211): Date at which nomination wasaccepted
+Block at (258, 211): 05-06-202516-06-2025
+Block at (88, 231): Time at which nomination wasaccepted
+... (21 more blocks)
+
+
+PAGE 3
+--------------------------------------------------------------------------------
+Dimensions: 595.00 x 842.00 points
+
+Text Blocks: 31
+
+COLUMN DETECTION: Found 3 distinct X-positions
+  X-positions: [30, 80, 250]
+  This indicates multi-column layout!
+
+First 5 text blocks (with coordinates):
+  Block 1: [36.0, 41.1, 39.3, 129.6]
+    Text: "..."
+  Block 2: [88.3, 147.4, 453.3, 158.4]
+    Text: "Unique Slot Reference NumberQB0357578736QB7412357677..."
+  Block 3: [88.3, 159.4, 457.2, 170.4]
+    Text: "Name of shipTOMINI OROSHIUBC TAKORADI..."
+  Block 4: [88.3, 171.4, 194.6, 190.4]
+    Text: "Date at which nomination wasreceived..."
+  Block 5: [257.8, 171.4, 438.1, 182.4]
+    Text: "29-05-202516-05-2025..."
+
+RAW TEXT EXTRACTION (Traditional Parser Output):
+--------------------------------------------------------------------------------
+  1:  
+  2:  
+  3:  
+  4:  
+  5:  
+  6: Unique Slot Reference Number
+  7: QB0357578736
+  8: QB7412357677
+  9: Name of ship
+ 10: TOMINI OROSHI
+ 11: UBC TAKORADI
+ 12: Date at which nomination was
+ 13: received
+ 14: 29-05-2025
+ 15: 16-05-2025
+ 16: Time at which nomination was
+ 17: received
+ 18: 02:19:00 PM
+ 19: 05:41:00 PM
+ 20: Date at which nomination was
+... (59 more lines)
+
+SPATIAL TEXT EXTRACTION (with coordinates):
+--------------------------------------------------------------------------------
+Block at (36, 41): 
+Block at (88, 147): Unique Slot Reference NumberQB0357578736QB7412357677
+Block at (88, 159): Name of shipTOMINI OROSHIUBC TAKORADI
+Block at (88, 171): Date at which nomination wasreceived
+Block at (258, 171): 29-05-202516-05-2025
+Block at (88, 191): Time at which nomination wasreceived
+Block at (258, 191): 02:19:00 PM05:41:00 PM
+Block at (88, 211): Date at which nomination wasaccepted
+Block at (258, 211): 29-05-202516-05-2025
+Block at (88, 231): Time at which nomination wasaccepted
+... (21 more blocks)
+
+
+PAGE 4
+--------------------------------------------------------------------------------
+Dimensions: 595.00 x 842.00 points
+
+Text Blocks: 31
+
+COLUMN DETECTION: Found 3 distinct X-positions
+  X-positions: [30, 80, 250]
+  This indicates multi-column layout!
+
+First 5 text blocks (with coordinates):
+  Block 1: [36.0, 41.1, 39.3, 129.6]
+    Text: "..."
+  Block 2: [88.3, 147.4, 453.3, 158.4]
+    Text: "Unique Slot Reference NumberQB7157365064QB5815500230..."
+  Block 3: [88.3, 159.4, 412.8, 170.4]
+    Text: "Name of shipSOUTHGATETBA..."
+  Block 4: [88.3, 171.4, 194.6, 190.4]
+    Text: "Date at which nomination wasreceived..."
+  Block 5: [257.8, 171.4, 438.1, 182.4]
+    Text: "16-04-202529-04-2025..."
+
+RAW TEXT EXTRACTION (Traditional Parser Output):
+--------------------------------------------------------------------------------
+  1:  
+  2:  
+  3:  
+  4:  
+  5:  
+  6: Unique Slot Reference Number
+  7: QB7157365064
+  8: QB5815500230
+  9: Name of ship
+ 10: SOUTHGATE
+ 11: TBA
+ 12: Date at which nomination was
+ 13: received
+ 14: 16-04-2025
+ 15: 29-04-2025
+ 16: Time at which nomination was
+ 17: received
+ 18: 08:05:00 PM
+ 19: 01:00:00 PM
+ 20: Date at which nomination was
+... (53 more lines)
+
+SPATIAL TEXT EXTRACTION (with coordinates):
+--------------------------------------------------------------------------------
+Block at (36, 41): 
+Block at (88, 147): Unique Slot Reference NumberQB7157365064QB5815500230
+Block at (88, 159): Name of shipSOUTHGATETBA
+Block at (88, 171): Date at which nomination wasreceived
+Block at (258, 171): 16-04-202529-04-2025
+Block at (88, 191): Time at which nomination wasreceived
+Block at (258, 191): 08:05:00 PM01:00:00 PM
+Block at (88, 211): Date at which nomination wasaccepted
+Block at (258, 211): 17-04-202502-05-2025
+Block at (88, 231): Time at which nomination wasaccepted
+... (21 more blocks)
+
+
+PAGE 5
+--------------------------------------------------------------------------------
+Dimensions: 595.00 x 842.00 points
+
+Text Blocks: 22
+
+COLUMN DETECTION: Found 4 distinct X-positions
+  X-positions: [30, 80, 250, 390]
+  This indicates multi-column layout!
+
+First 5 text blocks (with coordinates):
+  Block 1: [36.0, 41.1, 39.3, 129.6]
+    Text: "..."
+  Block 2: [88.3, 147.4, 453.3, 158.4]
+    Text: "Unique Slot Reference NumberQB2771655637QB1541470610..."
+  Block 3: [88.3, 159.4, 412.8, 170.4]
+    Text: "Name of shipTBATBA..."
+  Block 4: [88.3, 171.4, 194.6, 190.4]
+    Text: "Date at which nomination wasreceived..."
+  Block 5: [257.8, 171.4, 438.1, 182.4]
+    Text: "29-04-202529-04-2025..."
+
+RAW TEXT EXTRACTION (Traditional Parser Output):
+--------------------------------------------------------------------------------
+  1:  
+  2:  
+  3:  
+  4:  
+  5:  
+  6: Unique Slot Reference Number
+  7: QB2771655637
+  8: QB1541470610
+  9: Name of ship
+ 10: TBA
+ 11: TBA
+ 12: Date at which nomination was
+ 13: received
+ 14: 29-04-2025
+ 15: 29-04-2025
+ 16: Time at which nomination was
+ 17: received
+ 18: 01:00:00 PM
+ 19: 01:00:00 PM
+ 20: Date at which nomination was
+... (47 more lines)
+
+SPATIAL TEXT EXTRACTION (with coordinates):
+--------------------------------------------------------------------------------
+Block at (36, 41): 
+Block at (88, 147): Unique Slot Reference NumberQB2771655637QB1541470610
+Block at (88, 159): Name of shipTBATBA
+Block at (88, 171): Date at which nomination wasreceived
+Block at (258, 171): 29-04-202529-04-2025
+Block at (88, 191): Time at which nomination wasreceived
+Block at (258, 191): 01:00:00 PM01:00:00 PM
+Block at (88, 211): Date at which nomination wasaccepted
+Block at (258, 211): 02-05-202502-05-2025
+Block at (88, 231): Time at which nomination wasaccepted
+... (12 more blocks)
+
+
+PAGE 6
+--------------------------------------------------------------------------------
+Dimensions: 595.00 x 842.00 points
+
+Text Blocks: 22
+
+COLUMN DETECTION: Found 4 distinct X-positions
+  X-positions: [30, 80, 250, 390]
+  This indicates multi-column layout!
+
+First 5 text blocks (with coordinates):
+  Block 1: [36.0, 41.1, 39.3, 129.6]
+    Text: "..."
+  Block 2: [88.3, 147.4, 453.3, 158.4]
+    Text: "Unique Slot Reference NumberQB3582536041QB1566785655..."
+  Block 3: [88.3, 159.4, 412.8, 170.4]
+    Text: "Name of shipTBATBA..."
+  Block 4: [88.3, 171.4, 194.6, 190.4]
+    Text: "Date at which nomination wasreceived..."
+  Block 5: [257.8, 171.4, 438.1, 182.4]
+    Text: "29-04-202530-04-2025..."
+
+RAW TEXT EXTRACTION (Traditional Parser Output):
+--------------------------------------------------------------------------------
+  1:  
+  2:  
+  3:  
+  4:  
+  5:  
+  6: Unique Slot Reference Number
+  7: QB3582536041
+  8: QB1566785655
+  9: Name of ship
+ 10: TBA
+ 11: TBA
+ 12: Date at which nomination was
+ 13: received
+ 14: 29-04-2025
+ 15: 30-04-2025
+ 16: Time at which nomination was
+ 17: received
+ 18: 01:00:00 PM
+ 19: 08:14:00 PM
+ 20: Date at which nomination was
+... (47 more lines)
+
+SPATIAL TEXT EXTRACTION (with coordinates):
+--------------------------------------------------------------------------------
+Block at (36, 41): 
+Block at (88, 147): Unique Slot Reference NumberQB3582536041QB1566785655
+Block at (88, 159): Name of shipTBATBA
+Block at (88, 171): Date at which nomination wasreceived
+Block at (258, 171): 29-04-202530-04-2025
+Block at (88, 191): Time at which nomination wasreceived
+Block at (258, 191): 01:00:00 PM08:14:00 PM
+Block at (88, 211): Date at which nomination wasaccepted
+Block at (258, 211): 02-05-202502-05-2025
+Block at (88, 231): Time at which nomination wasaccepted
+... (12 more blocks)
+
+
+PAGE 7
+--------------------------------------------------------------------------------
+Dimensions: 595.00 x 842.00 points
+
+Text Blocks: 22
+
+COLUMN DETECTION: Found 4 distinct X-positions
+  X-positions: [30, 80, 250, 390]
+  This indicates multi-column layout!
+
+First 5 text blocks (with coordinates):
+  Block 1: [36.0, 41.1, 39.3, 129.6]
+    Text: "..."
+  Block 2: [88.3, 147.4, 453.3, 158.4]
+    Text: "Unique Slot Reference NumberQB5345742564QB2687807116..."
+  Block 3: [88.3, 159.4, 412.8, 170.4]
+    Text: "Name of shipTBATBA..."
+  Block 4: [88.3, 171.4, 194.6, 190.4]
+    Text: "Date at which nomination wasreceived..."
+  Block 5: [257.8, 171.4, 438.1, 182.4]
+    Text: "30-04-202530-04-2025..."
+
+RAW TEXT EXTRACTION (Traditional Parser Output):
+--------------------------------------------------------------------------------
+  1:  
+  2:  
+  3:  
+  4:  
+  5:  
+  6: Unique Slot Reference Number
+  7: QB5345742564
+  8: QB2687807116
+  9: Name of ship
+ 10: TBA
+ 11: TBA
+ 12: Date at which nomination was
+ 13: received
+ 14: 30-04-2025
+ 15: 30-04-2025
+ 16: Time at which nomination was
+ 17: received
+ 18: 08:14:00 PM
+ 19: 08:14:00 PM
+ 20: Date at which nomination was
+... (47 more lines)
+
+SPATIAL TEXT EXTRACTION (with coordinates):
+--------------------------------------------------------------------------------
+Block at (36, 41): 
+Block at (88, 147): Unique Slot Reference NumberQB5345742564QB2687807116
+Block at (88, 159): Name of shipTBATBA
+Block at (88, 171): Date at which nomination wasreceived
+Block at (258, 171): 30-04-202530-04-2025
+Block at (88, 191): Time at which nomination wasreceived
+Block at (258, 191): 08:14:00 PM08:14:00 PM
+Block at (88, 211): Date at which nomination wasaccepted
+Block at (258, 211): 02-05-202502-05-2025
+Block at (88, 231): Time at which nomination wasaccepted
+... (12 more blocks)
+

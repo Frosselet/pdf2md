@@ -1,0 +1,314 @@
+================================================================================
+REAL-WORLD PDF ANALYSIS REPORT
+Generated: 2025-11-24 06:18:08
+================================================================================
+
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Total PDFs analyzed: 8
+Simple: 0 PDFs
+Complex: 1 PDFs
+Problematic: 7 PDFs
+
+COMMON ISSUES (Frequency)
+--------------------------------------------------------------------------------
+MS_OFFICE_GENERATED: 6 PDFs
+MULTI_COLUMN_LAYOUT: 6 PDFs
+COMPLEX_GRAPHICS: 5 PDFs
+PROCESSING_ERROR: 2 PDFs
+
+INDIVIDUAL PDF ANALYSIS
+================================================================================
+
+FILE: 2857439.pdf
+--------------------------------------------------------------------------------
+Current Category: problematic
+Suggested Category: problematic
+
+Pages: 1
+File Size: 58.49 KB
+Producer: 
+Creator: FileMaker Pro 21.1.1
+
+ERROR: tuple index out of range
+This PDF could not be fully analyzed due to processing errors.
+
+Issues Detected:
+  - PROCESSING_ERROR
+
+KEY CHALLENGES FOR TRADITIONAL PARSERS:
+  - PDF structure is malformed or uses non-standard encoding
+  - Traditional parsers fail to even open/process this file correctly
+
+
+FILE: Bunge_loadingstatement_2025-09-25.pdf
+--------------------------------------------------------------------------------
+Current Category: problematic
+Suggested Category: problematic
+
+Pages: 1
+File Size: 67.71 KB
+Producer: Microsoft® Excel® for Microsoft 365
+Creator: Microsoft® Excel® for Microsoft 365
+
+Layout Characteristics:
+  - Blocks: 35 total, 35.0 per page
+  - Multi-column: YES
+  - Tables: NO
+  - Images: NO
+  - Drawings/Shapes: YES
+
+Text Extraction:
+  - Total characters: 2033
+  - Avg per page: 2033
+
+Fonts: 2 unique font/size combinations
+  - Calibri_3.4800000190734863
+  - Calibri_4.800000190734863
+
+Issues Detected:
+  - MS_OFFICE_GENERATED
+  - MULTI_COLUMN_LAYOUT
+  - COMPLEX_GRAPHICS
+
+KEY CHALLENGES FOR TRADITIONAL PARSERS:
+  - Multi-column layout requires spatial awareness to maintain reading order
+  - Complex graphics/shapes (1 max per page) can interfere with text extraction
+  - MS Office PDFs may have non-standard text positioning and spacing
+
+
+FILE: CBH Shipping Stem 26092025.pdf
+--------------------------------------------------------------------------------
+Current Category: complex
+Suggested Category: problematic
+
+Pages: 1
+File Size: 199.67 KB
+Producer: Microsoft® Excel® for Microsoft 365
+Creator: Microsoft® Excel® for Microsoft 365
+
+Layout Characteristics:
+  - Blocks: 99 total, 99.0 per page
+  - Multi-column: YES
+  - Tables: NO
+  - Images: YES
+  - Drawings/Shapes: YES
+
+Text Extraction:
+  - Total characters: 6545
+  - Avg per page: 6545
+
+Fonts: 7 unique font/size combinations
+
+Issues Detected:
+  - MS_OFFICE_GENERATED
+  - MULTI_COLUMN_LAYOUT
+  - COMPLEX_GRAPHICS
+
+KEY CHALLENGES FOR TRADITIONAL PARSERS:
+  - Multi-column layout requires spatial awareness to maintain reading order
+  - Complex graphics/shapes (176 max per page) can interfere with text extraction
+  - MS Office PDFs may have non-standard text positioning and spacing
+
+
+FILE: Loading-Statement-for-Web-Portal-20250923.pdf
+--------------------------------------------------------------------------------
+Current Category: problematic
+Suggested Category: problematic
+
+Pages: 1
+File Size: 111.99 KB
+Producer: Microsoft® Excel® for Microsoft 365
+Creator: Microsoft® Excel® for Microsoft 365
+
+ERROR: tuple index out of range
+This PDF could not be fully analyzed due to processing errors.
+
+Issues Detected:
+  - MS_OFFICE_GENERATED
+  - PROCESSING_ERROR
+
+KEY CHALLENGES FOR TRADITIONAL PARSERS:
+  - PDF structure is malformed or uses non-standard encoding
+  - Traditional parsers fail to even open/process this file correctly
+  - MS Office PDFs may have non-standard text positioning and spacing
+
+
+FILE: Shipping-Stem-2025-09-30.pdf
+--------------------------------------------------------------------------------
+Current Category: complex
+Suggested Category: problematic
+
+Pages: 4
+File Size: 461.53 KB
+Producer: Microsoft: Print To PDF
+Creator: 
+
+Layout Characteristics:
+  - Blocks: 239 total, 59.8 per page
+  - Multi-column: YES
+  - Tables: NO
+  - Images: YES
+  - Drawings/Shapes: YES
+
+Text Extraction:
+  - Total characters: 20421
+  - Avg per page: 5105
+
+Fonts: 5 unique font/size combinations
+  - CIDFont+F1_4.3198347091674805
+  - CIDFont+F1_6.95973014831543
+  - CIDFont+F2_5.159797668457031
+  - CIDFont+F2_5.999767303466797
+  - CIDFont+F3_5.159797668457031
+
+Issues Detected:
+  - MS_OFFICE_GENERATED
+  - MULTI_COLUMN_LAYOUT
+  - COMPLEX_GRAPHICS
+
+KEY CHALLENGES FOR TRADITIONAL PARSERS:
+  - Multi-column layout requires spatial awareness to maintain reading order
+  - Complex graphics/shapes (107 max per page) can interfere with text extraction
+  - MS Office PDFs may have non-standard text positioning and spacing
+
+
+FILE: document (1).pdf
+--------------------------------------------------------------------------------
+Current Category: complex
+Suggested Category: complex
+
+Pages: 7
+File Size: 61.04 KB
+Producer: iTextSharp™ 5.5.13.4 ©2000-2024 iText Group NV (AGPL-version)
+Creator: 
+
+Layout Characteristics:
+  - Blocks: 197 total, 28.1 per page
+  - Multi-column: YES
+  - Tables: NO
+  - Images: YES
+  - Drawings/Shapes: NO
+
+Text Extraction:
+  - Total characters: 7020
+  - Avg per page: 1003
+
+Fonts: 2 unique font/size combinations
+  - Helvetica_12.0
+  - Helvetica_8.0
+
+Issues Detected:
+  - MULTI_COLUMN_LAYOUT
+
+KEY CHALLENGES FOR TRADITIONAL PARSERS:
+  - Multi-column layout requires spatial awareness to maintain reading order
+
+
+FILE: shipping-stem-2025-11-13.pdf
+--------------------------------------------------------------------------------
+Current Category: complex
+Suggested Category: problematic
+
+Pages: 3
+File Size: 504.16 KB
+Producer: Microsoft: Print To PDF
+Creator: 
+
+Layout Characteristics:
+  - Blocks: 214 total, 71.3 per page
+  - Multi-column: YES
+  - Tables: NO
+  - Images: YES
+  - Drawings/Shapes: YES
+
+Text Extraction:
+  - Total characters: 19004
+  - Avg per page: 6335
+
+Fonts: 5 unique font/size combinations
+  - CIDFont+F1_4.3198347091674805
+  - CIDFont+F1_6.95973014831543
+  - CIDFont+F2_5.159797668457031
+  - CIDFont+F2_5.999767303466797
+  - CIDFont+F3_5.159797668457031
+
+Issues Detected:
+  - MS_OFFICE_GENERATED
+  - MULTI_COLUMN_LAYOUT
+  - COMPLEX_GRAPHICS
+
+KEY CHALLENGES FOR TRADITIONAL PARSERS:
+  - Multi-column layout requires spatial awareness to maintain reading order
+  - Complex graphics/shapes (111 max per page) can interfere with text extraction
+  - MS Office PDFs may have non-standard text positioning and spacing
+
+
+FILE: shipping_stem-accc-30092025-1.pdf
+--------------------------------------------------------------------------------
+Current Category: problematic
+Suggested Category: problematic
+
+Pages: 1
+File Size: 132.78 KB
+Producer: Microsoft® Excel® for Microsoft 365
+Creator: Microsoft® Excel® for Microsoft 365
+
+Layout Characteristics:
+  - Blocks: 24 total, 24.0 per page
+  - Multi-column: YES
+  - Tables: NO
+  - Images: YES
+  - Drawings/Shapes: YES
+
+Text Extraction:
+  - Total characters: 1786
+  - Avg per page: 1786
+
+Fonts: 2 unique font/size combinations
+  - Calibri-Bold_5.159999847412109
+  - Calibri_5.159999847412109
+
+Issues Detected:
+  - MS_OFFICE_GENERATED
+  - MULTI_COLUMN_LAYOUT
+  - COMPLEX_GRAPHICS
+
+KEY CHALLENGES FOR TRADITIONAL PARSERS:
+  - Multi-column layout requires spatial awareness to maintain reading order
+  - Complex graphics/shapes (218 max per page) can interfere with text extraction
+  - MS Office PDFs may have non-standard text positioning and spacing
+
+================================================================================
+SPATIAL LAYOUT CHALLENGES SUMMARY
+================================================================================
+
+Traditional parsers fail on these PDFs because they:
+
+1. IGNORE SPATIAL POSITIONING:
+   - Cannot handle multi-column layouts (text extracted in wrong order)
+   - Fail to recognize table structures without explicit markup
+   - Mix up headers, footers, and body text
+
+2. LACK STRUCTURE AWARENESS:
+   - Cannot distinguish between background graphics and content
+   - Fail to group related text blocks
+   - Cannot infer semantic meaning from layout
+
+3. POOR HANDLING OF MS OFFICE ARTIFACTS:
+   - MS Office PDFs have quirky spacing and positioning
+   - Text may be split into many small fragments
+   - Font embedding issues common
+
+4. TEXT EXTRACTION ISSUES:
+   - Encoding problems with special characters
+   - Excessive whitespace from poor layout understanding
+   - Missing text from image-based content
+
+OUR SPATIAL-AWARE APPROACH ADDRESSES THESE BY:
+
+1. Analyzing X/Y coordinates of all text elements
+2. Detecting columns, tables, and structured regions
+3. Maintaining reading order based on spatial layout
+4. Separating background elements from content
+5. Using font and position to infer document structure

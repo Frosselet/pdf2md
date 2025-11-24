@@ -1,0 +1,69 @@
+================================================================================
+DETAILED SPATIAL ANALYSIS: shipping_stem-accc-30092025-1.pdf
+================================================================================
+
+PAGE 1
+--------------------------------------------------------------------------------
+Dimensions: 841.68 x 595.20 points
+
+Text Blocks: 23
+
+COLUMN DETECTION: Found 13 distinct X-positions
+  X-positions: [50, 70, 110, 180, 310, 410, 420, 550, 580, 620, 660, 700, 750]
+  This indicates multi-column layout!
+
+First 5 text blocks (with coordinates):
+  Block 1: [312.2, 69.3, 342.9, 74.5]
+    Text: "Shipping Stem..."
+  Block 2: [183.3, 114.6, 380.8, 119.8]
+    Text: "Date Last Updated30/09/2025..."
+  Block 3: [52.1, 126.7, 408.2, 131.9]
+    Text: "MonthPort of LoadingSlot Ref:COMMODITYVesselExporterTonnesET..."
+  Block 4: [429.3, 119.6, 447.1, 124.8]
+    Text: "Loading..."
+  Block 5: [414.2, 126.3, 544.3, 131.9]
+    Text: "Commencement DateDate of ETDTime of ETD..."
+
+Drawings/Shapes: 218 items
+  Horizontal lines: 0
+  Vertical lines: 0
+  Rectangles: 218
+
+RAW TEXT EXTRACTION (Traditional Parser Output):
+--------------------------------------------------------------------------------
+  1: Shipping Stem
+  2: Date Last Updated
+  3: 30/09/2025
+  4: Month
+  5: Port of Loading
+  6: Slot Ref:
+  7: COMMODITY
+  8: Vessel
+  9: Exporter
+ 10: Tonnes
+ 11: ETA - Date
+ 12: ETA - Time
+ 13: Loading 
+ 14: Commencement Date
+ 15: Date of ETD
+ 16: Time of ETD
+ 17: Completed 
+ 18: Date
+ 19: Completed 
+ 20: Time
+... (180 more lines)
+
+SPATIAL TEXT EXTRACTION (with coordinates):
+--------------------------------------------------------------------------------
+Block at (312, 69): Shipping Stem
+Block at (183, 115): Date Last Updated30/09/2025
+Block at (429, 120): Loading
+Block at (556, 120): Completed Date
+Block at (590, 120): Completed Time
+Block at (625, 120): Date of Nomination
+Block at (666, 120): Time of Nomination
+Block at (709, 120): Nomination Accepted
+Block at (753, 120): Time Accepted
+Block at (414, 126): Commencement DateDate of ETDTime of ETD
+... (13 more blocks)
+
